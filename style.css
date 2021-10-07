@@ -122,7 +122,8 @@ body {
   margin: 4px 0 16px;
   padding: 0;
   height: 14px;
-  font-size: 0;
+  font-size: 12px;
+  text-align: center;
   background-color: #ffffff;
   border: 1px solid #86c3fa;
   border-radius: 8px;
